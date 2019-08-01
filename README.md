@@ -13,10 +13,6 @@
 
 <br/>
 
-### User Story
-
-As a **member in your compuny:**
->  **I want to search from name member.** 
 
 >  **I want show details** 
 
