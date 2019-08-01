@@ -30,7 +30,6 @@ As a **member in your compuny:**
  
 
 ### how ?
-<hr/>
 
 1. we split the project three level. 
    * first level  : complete tha structure and html for website.
@@ -39,8 +38,8 @@ As a **member in your compuny:**
 2. check accessability for website.
 
 <br/>
-<hr/>
 
+# my advice :)
 
 ### our team 
 * Mossa Sameer.
