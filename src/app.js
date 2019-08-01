@@ -1,4 +1,3 @@
-/* eslint-disable import/no-unresolved */
 const { join } = require('path');
 const express = require('express');
 const compression = require('compression');
